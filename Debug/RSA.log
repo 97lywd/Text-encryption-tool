@@ -1,0 +1,23 @@
+﻿  rsa.cpp
+  Unknown compiler version - please run the configure tests and report the results
+D:\RSA\rsa.cpp(20,12): warning C4244: “初始化”: 从“std::streamsize”转换到“int”，可能丢失数据
+D:\RSA\rsa.cpp(43,11): warning C4244: “初始化”: 从“std::streamsize”转换到“int”，可能丢失数据
+D:\RSA\rsa.cpp(84,36): warning C4244: “参数”: 从“time_t”转换到“const UIntType”，可能丢失数据
+D:\RSA\rsa.cpp(84,36): warning C4244:         with
+D:\RSA\rsa.cpp(84,36): warning C4244:         [
+D:\RSA\rsa.cpp(84,36): warning C4244:             UIntType=uint32_t
+D:\RSA\rsa.cpp(84,36): warning C4244:         ]
+D:\RSA\rsa.cpp(109,34): warning C4244: “参数”: 从“time_t”转换到“const UIntType”，可能丢失数据
+D:\RSA\rsa.cpp(109,34): warning C4244:         with
+D:\RSA\rsa.cpp(109,34): warning C4244:         [
+D:\RSA\rsa.cpp(109,34): warning C4244:             UIntType=uint32_t
+D:\RSA\rsa.cpp(109,34): warning C4244:         ]
+  test.cpp
+  正在生成代码...
+D:\RSA\rsa.cpp(125,33): warning C4244: “参数”: 从“time_t”转换到“const UIntType”，可能丢失数据
+D:\RSA\rsa.cpp(125,33): warning C4244:         with
+D:\RSA\rsa.cpp(125,33): warning C4244:         [
+D:\RSA\rsa.cpp(125,33): warning C4244:             UIntType=uint32_t
+D:\RSA\rsa.cpp(125,33): warning C4244:         ]
+D:\RSA\rsa.cpp(125,33): warning C4244: Unknown compiler version - please run the configure tests and report the results
+  RSA.vcxproj -> D:\RSA\Debug\RSA.exe
